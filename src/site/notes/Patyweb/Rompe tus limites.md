@@ -38,6 +38,14 @@ favicon: ""
 aspectRatio: "83.33333333333334"
 ```
 
+<div style="border: 1px solid #ddd; padding: 15px; border-radius: 8px; display: flex; gap: 15px; align-items: center;">
+  <img src="https://claseflix.io/_next/image?url=%2Fclaseflixpro-mobile.gif&w=1920&q=75" style="width: 100px; height: auto; border-radius: 4px;">
+  <div>
+    <h3><a href="https://claseflix.io/cursos/como-gestionar-tu-tiempo-para-ser-mas-productivo/clases" target="_blank">Clases - Cómo gestionar tu tiempo</a></h3>
+    <p>Aprende a ser más productivo y conseguir tus objetivos.</p>
+  </div>
+</div>
+
 <p align="center"> HERRAMIENTAS </p>
 Siempre hay una mara de lograr nuestros objetivos, solo debemos encontrar las herramientas correctas que se ajusten a nuestras necesidad, si pensaste que tenias impedimentos u obstáculos, te cuento que no, solo son excusas en tu mente que nacen de la inseguridad y el miedo a lo desconocido. Que no te de miedo probar cosas nuevas, siempre puedes aprender a hacer algo nuevo o buscar una manera de cumplir las metas que haz soñado.
 
