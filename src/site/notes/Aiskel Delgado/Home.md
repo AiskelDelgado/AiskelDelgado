@@ -5,7 +5,7 @@
 
 # 👀 **Menú de Navegación**
 - [[Aiskel Delgado/Rompe tus limites\|Rompe tus limites]]
-- [[Aiskel Delgado/HERRAMIENTAS\|HERRAMIENTAS]]
+- [[Aiskel Delgado/HERRAMIENTAS\|HERRAMIENTAS]] 
 ## 👋🏽*Bienvenido a mi blog de información*
 El fin de esta web es compartir información relevante y herramientas que he conocido y estudiado, adicional a eso estaré abriendo nuevas secciones a futuro a medida que requieras mas de mis conocimientos o que desee compartir algo contigo.
 ## 💬Comentarios
