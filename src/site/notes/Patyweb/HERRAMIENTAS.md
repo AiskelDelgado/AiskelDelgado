@@ -17,6 +17,8 @@ favicon: ""
 aspectRatio: "100"
 ```
 
+
+_ hola_
 	*Plataformas de GOOGLE* De momento solo cuenta con web, pero su pagina abre perfectamente en cualquier dispositivo Android. Cuenta con tres plataformas de punto de partida para guiar
 	```cardlink
 	url: https://grow.google/intl/es/courses-and-tools/
