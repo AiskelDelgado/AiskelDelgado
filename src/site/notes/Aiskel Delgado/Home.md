@@ -11,4 +11,3 @@ El fin de esta web es compartir información relevante y herramientas que he con
 ## 💬Comentarios
 recuerda que puedes dejarme tus comentarios sobre temas que deseas conocer, mas explicación sobre un tema publicado o dudas a través de 📲 aiskeldelgadopp+conocimientos@gmail.com
 
-th
