@@ -8,14 +8,15 @@
 -  
 	- *Plataforma CLASEFLIX* Cuenta con app y sitio web, Diseño tipo Netflix pero con un sistema ordenado para ver cada clase o video dentro de los cursos que desees elegir. IDEAL PARA PRINCIPIANTES autodidactas 
 	
-	```cardlink
-	url: https://claseflix.io/?utm_source=auto-organic&utm_ow=claseflix-home-block
-	title: "Claseflix - Cursos online gratuitos"
-	description: "Somos una plataforma de cursos online y gratuitos para que aprendas de forma práctica y complementes tu currículo. Explore nuestro catálogo y comience a estudiar ahora."
-	host: claseflix.io
-	image: https://claseflix.io/claseflix-share.jpg
-	```
-	
+```embed
+title: "Claseflix - Cursos online gratuitos"
+image: "https://claseflix.io/claseflix-share.jpg"
+description: "Somos una plataforma de cursos online y gratuitos para que aprendas de forma práctica y complementes tu currículo. Explore nuestro catálogo y comience a estudiar ahora."
+url: "https://claseflix.io/?utm_source=auto-organic&utm_ow=claseflix-home-block"
+favicon: ""
+aspectRatio: "100"
+```
+
 	*Plataformas de GOOGLE* De momento solo cuenta con web, pero su pagina abre perfectamente en cualquier dispositivo Android. Cuenta con tres plataformas de punto de partida para guiar
 	```cardlink
 	url: https://grow.google/intl/es/courses-and-tools/
