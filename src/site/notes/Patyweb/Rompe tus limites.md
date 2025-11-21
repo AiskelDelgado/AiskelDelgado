@@ -29,14 +29,6 @@ Siempre recomiendo que antes de iniciar cualquier proyecto o tomar decisiones cr
 
 Este paso consiste en clasificar tus prioridades para aprovechar tu tiempo y conseguir mas y mejores resultados en menos tiempo y con menos trabajo, ya que , mantienes  el enfoque en las tareas clave para lograr tus *objetivos.*
 Recomiendo ver el siguiente curso para que aprendas a aprovechar tu tiempo al máximo:
-```embed
-title: "Clases - Cómo gestionar tu tiempo para ser más productivo - Claseflix"
-image: "https://claseflix.io/_next/image?url=%2Fclaseflixpro-mobile.gif&w=1920&q=75"
-description: "Aprende a gestionar tu tiempo y a ser más productivo para poder conseguir todos y cada uno de tus objetivos."
-url: "https://claseflix.io/cursos/como-gestionar-tu-tiempo-para-ser-mas-productivo/clases"
-favicon: ""
-aspectRatio: "83.33333333333334"
-```
 
 <div style="border: 1px solid #ddd; padding: 15px; border-radius: 8px; display: flex; gap: 15px; align-items: center;">
   <img src="https://claseflix.io/_next/image?url=%2Fclaseflixpro-mobile.gif&w=1920&q=75" style="width: 100px; height: auto; border-radius: 4px;">
