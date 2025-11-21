@@ -57,15 +57,6 @@
   </div>
 </div>
 
-```embed
-title: "Catalog of Courses"
-image: "https://pll.harvard.edu/sites/default/files/styles/16_9_medium/public/course/ApplicationsCourse2.jpg?itok=IHeM8-ve"
-description: "Browse the latest courses from Harvard University"
-url: "https://pll.harvard.edu/catalog/free"
-favicon: ""
-aspectRatio: "56.22641509433962"
-```
-
 
 - **Programas y/o APPs para tomar notas o gestionar tu conocimiento de forma ordenada accesible y practica:**
 
