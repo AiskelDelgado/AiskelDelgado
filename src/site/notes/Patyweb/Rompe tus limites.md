@@ -29,16 +29,14 @@ Siempre recomiendo que antes de iniciar cualquier proyecto o tomar decisiones cr
 
 Este paso consiste en clasificar tus prioridades para aprovechar tu tiempo y conseguir mas y mejores resultados en menos tiempo y con menos trabajo, ya que , mantienes  el enfoque en las tareas clave para lograr tus *objetivos.*
 Recomiendo ver el siguiente curso para que aprendas a aprovechar tu tiempo al máximo:
-
-
-```cardlink
-url: https://claseflix.io/cursos/como-gestionar-tu-tiempo-para-ser-mas-productivo/clases
-title: "Claseflix - Cursos online gratuitos"
-description: "Somos una plataforma de cursos online y gratuitos para que aprendas de forma práctica y complementes tu currículo. Explore nuestro catálogo y comience a estudiar ahora."
-host: claseflix.io
-image: https://claseflix.io/claseflix-share.jpg
+```embed
+title: "Clases - Cómo gestionar tu tiempo para ser más productivo - Claseflix"
+image: "https://claseflix.io/_next/image?url=%2Fclaseflixpro-mobile.gif&w=1920&q=75"
+description: "Aprende a gestionar tu tiempo y a ser más productivo para poder conseguir todos y cada uno de tus objetivos."
+url: "https://claseflix.io/cursos/como-gestionar-tu-tiempo-para-ser-mas-productivo/clases"
+favicon: ""
+aspectRatio: "83.33333333333334"
 ```
-
 
 <p align="center"> HERRAMIENTAS </p>
 Siempre hay una mara de lograr nuestros objetivos, solo debemos encontrar las herramientas correctas que se ajusten a nuestras necesidad, si pensaste que tenias impedimentos u obstáculos, te cuento que no, solo son excusas en tu mente que nacen de la inseguridad y el miedo a lo desconocido. Que no te de miedo probar cosas nuevas, siempre puedes aprender a hacer algo nuevo o buscar una manera de cumplir las metas que haz soñado.
