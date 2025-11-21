@@ -56,10 +56,11 @@ Aquí te dejo algunas opciones para que adquieras conocimientos necesarios para 
 |   COURSERA  (Aliado de google)   | https://www.coursera.org/google-career-certificates?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_x_google_ftcof_google-career-certificates_gx_dr_bau_gg_sem_pr_s1-v2_en_m_hyb_24-07_x&campaignid=21489985171&adgroupid=163684458143&device=c&keyword=google%20courses&matchtype=b&network=g&devicemodel=&creativeid=706369635257&assetgroupid=&targetid=kwd-298924869490&extensionid=&placement=&gad_source=1&gad_campaignid=21489985171&gbraid=0AAAAADdKX6YuVhCUL9lco4jyrp9L0PHpt&gclid=CjwKCAiAz_DIBhBJEiwAVH2XwHs--EnPqEPqRh4WK1i5BMMCy1tW0WzMv0AW7tZLhk_62fJyFL85tRoCesgQAvD_BwE |
 |             HARVARD              | https://pll.harvard.edu/catalog/free                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-SI AMIGA, ESTE HARVARD 👇🏽👇🏽👇🏽😏😉
-![HERBARD web.png](/img/user/Privado/Imagenes/HERBARD%20web.png)
 
 
+ SI AMIGA, ESTE HARVARD 👇🏽👇🏽👇🏽😏😉
+ ![HERBARD web.png](/img/user/Privado/Imagenes/HERBARD%20web.png)
+ 
  la famosísima universidad estadounidense ofrece CURSOS GRATUITOS ‼
  
 Si deseas mas información sobre cada plataforma y que otras herramientas puedes usar para facilitar tu avance solo debes pulsar aquí 👉🏽 [[Patyweb/HERRAMIENTAS\|HERRAMIENTAS]]
