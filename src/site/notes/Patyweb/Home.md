@@ -3,7 +3,7 @@
 ---
 
 
-# 👀**Menú de Navegación **
+# 👀 **Menú de Navegación**
 - [[Patyweb/Rompe tus limites\|Rompe tus limites]]
 - [[Patyweb/HERRAMIENTAS\|HERRAMIENTAS]]
 ## 👋🏽*Bienvenido a mi blog de información*
