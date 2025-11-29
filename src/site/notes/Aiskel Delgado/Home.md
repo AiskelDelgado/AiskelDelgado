@@ -28,7 +28,7 @@ Esta es la navegación principal de mi jardín. Haz clic en lo que más te inter
 Este espacio se nutre de la conversación. Si te queda alguna duda sobre un tema publicado o deseas compartir algo de valor, puedes dejarme tus comentarios:
   💌 aiskeldelgado+conocimientos@gmail.com 
   
-Aquí te dejo también nuestro canal de WhatsApp para que estés atento(a) cuando la página tenga nuevos contenidos:
+Aquí te dejo también nuestro canal de WhatsApp para que estés atento(a) cuando la página tenga nuevos contenidos: 
  
 
 

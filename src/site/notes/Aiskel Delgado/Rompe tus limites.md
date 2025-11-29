@@ -55,7 +55,7 @@ Aquí te dejo algunas opciones para que adquieras conocimientos necesarios para 
 
 
 
- SI AMIGA, ESTE HARVARD 👇🏽👇🏽👇🏽😏😉
+ SI AMIGA, ESTE HARVARD 👇🏽👇🏽👇🏽😏😏
  ![HERBARD web.png](/img/user/Privado/Imagenes/HERBARD%20web.png)
  
  la famosísima universidad estadounidense ofrece CURSOS GRATUITOS ‼

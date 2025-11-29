@@ -59,6 +59,7 @@
 
 
 - **Programas y/o APPs para tomar notas o gestionar tu conocimiento de forma ordenada accesible y practica:**
+- 
 
 
 
