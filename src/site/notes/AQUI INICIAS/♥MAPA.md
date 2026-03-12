@@ -21,7 +21,7 @@ Esta es la navegación principal de mi jardín. Haz clic en lo que más te inter
     * Artículos y reflexiones enfocadas en la estrategia personal, mentalidad y la acción necesaria para alcanzar tus metas.
 * **[[Habilidades/HERRAMIENTAS\|HERRAMIENTAS]]**
     * Acceso a las plataformas, aplicaciones y recursos tecnológicos que recomiendo para organizar, automatizar y optimizar tu trabajo diario.
-* **[[Manual de Vida/Reto 50 Días\|Reto 50 Días]]
+* **[[Manual de Vida/Reto 50 Días\|Reto 50 Días]]**
 	* 50 notas de artículos y reflexiones enfocadas en un cambio de mentalidad para lograr tu paz mental explicado con mis experiencias que he basados en el manual de vida 
 
 
