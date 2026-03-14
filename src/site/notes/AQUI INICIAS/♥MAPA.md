@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"meta_title":"INICIO","meta_description":"Bienvenido a mi jardín digital personal.","image":"https://aiskeldelgado.vercel.app/img/foto.jpg","permalink":"/aqui-inicias/love-mapa/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"meta_title":"♥ Aiskel Delgado ♥","meta_description":"Bienvenido a mi jardín digital personal.","image":"https://aiskeldelgado.vercel.app/img/foto.jpg","permalink":"/aqui-inicias/love-mapa/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # ❤Bienvenido a Mi Jardín.
